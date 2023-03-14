@@ -2,6 +2,6 @@
 React JS Graded Project
 
 
-Due to size constraints, I have deleted the images from the folder. Kindly paste the images in the Images folder before evaluation.
+Due to size constraints, I have deleted the images from the folder. Kindly paste the images in the Images folder before evaluation. Please take a look at the working demo.
 
 Working Project Demo Video Link - https://drive.google.com/file/d/1CfMq0EnaL34MCJrncmt7IPECgkCGSE3d/view?usp=share_link
